@@ -24,7 +24,7 @@ This plugin creates a timeline feature that is used by the Center for Humanities
 1. Create a post with the template file "Event Timeline"
 2. Add content to the main wysiwyg
 3. Fill out the new fields that show up under "Timeline"
-4. Add a featured image
+4. Add a featured image (400x300 is ideal)
 5. Click publish
 6. Create a page and use the following shortcode
 ```
