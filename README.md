@@ -14,6 +14,9 @@ This plugin creates a timeline feature that is used by the Center for Humanities
         - Type of event (this can be a category)
       - Event Color
         - Color the header of the event will be in the timeline
+        - Red #620000
+        - Blue #3a50ab
+        - Green #005e3d
       - Link for Event Registration
         - Zoom/Eventbrite link for the event
 
